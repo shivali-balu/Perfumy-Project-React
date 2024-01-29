@@ -1,0 +1,32 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+nav {
+  background-color: black;
+  padding: 20px;
+  color: white;
+}
+li,
+h1 {
+  display: inline;
+}
+ul {
+  margin-left: 60%;
+  display: inline;
+}
+li {
+  color: grey;
+  text-decoration: none;
+  cursor: pointer;
+}
+li:hover {
+  color: white;
+}
+
+h1 {
+  font-size: 30px !important;
+}
+li {
+  font-size: 15px !important;
+}

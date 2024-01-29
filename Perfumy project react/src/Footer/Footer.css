@@ -1,0 +1,22 @@
+.contact {
+  padding: 20px;
+}
+footer {
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+form {
+  border: 1px solid white;
+  padding: 10px;
+  border-radius: 4px;
+}
+#contact-input {
+  margin-left: 350px !important;
+  width: 50% !important;
+}
+textarea {
+  width: 50% !important;
+  margin-left: 350px;
+  overflow: scroll;
+}

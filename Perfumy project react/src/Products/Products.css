@@ -1,0 +1,25 @@
+.box {
+  text-align: center;
+  width: 220px;
+  display: inline-block;
+  margin-left: 10px;
+  border-radius: 5px;
+  box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+  cursor: pointer;
+  transition: 0.3s ease;
+  margin-top: 10px;
+  margin-left: 10px;
+}
+
+img {
+  width: 220px;
+}
+.box:hover {
+  border-color: black;
+  background-color: black;
+  color: white;
+}
+.products {
+  text-align: center;
+  padding: 30px;
+}
